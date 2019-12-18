@@ -7,7 +7,7 @@ permalink: /about/
 
 # She kept getting bigger
 
-![alt text](https://michaelscottkittenco.github.io/assets/photos/2019-04-28_09-30-49_722.jpg "PK and Friend")
+![alt text](/assets/photos/2019-04-28_09-30-49_722.jpg "PK and Friend")
 
 # And bigger
 

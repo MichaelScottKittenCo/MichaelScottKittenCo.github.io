@@ -4,16 +4,9 @@ layout: archive
 
 {{ content }}
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
-
-<a href="https://www.amazon.com/photos/shared/hFvMNamiQveuy8OyGkEs9g.vTzaa1WKwNxPoD4F5_njDS?sort=sortOldestToNewest"> View ALL the photos here! </a>
+<h3 class="archive__subtitle">Meet the Michael Scott Kitten Company</h3>
 
 
 {% assign about = site.pages | where: 'name','about.md' %}
 {{about}}
 
-{% for post in paginator.posts %}
-  {% include archive-single.html %}
-{% endfor %}
-
-{% include paginator.html %}

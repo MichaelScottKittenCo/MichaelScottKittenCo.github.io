@@ -3,6 +3,42 @@ title: "About"
 permalink: /about/
 ---
 
+# The short & "to the point" version:
+
+# It was an unremarkable Sunday in April when a kitten ran through the Ryan's yard and up their driveway.
+
+![hello new friend](/assets/photos/2019-04-20_21-53-54_951.jpg "Hello friend")
+
+# She kept getting bigger
+
+![alt text](/assets/photos/2019-04-28_19-05-38_744.jpg "PK and Friend")
+
+# And bigger
+
+![alt text](/assets/photos/2019-05-02_08-14-45_904.jpg "PK and Friend")
+
+# And then smaller again (!!)
+
+![alt text](/assets/photos/2019-05-10_18-49-51_554.jpg "PK and Friend")
+
+# And then it rained
+
+![alt text](/assets/photos/2019-05-16_08-26-43_036.jpg "PK and Friend")
+
+# And then we brought her inside
+
+![alt text](/assets/photos/2019-05-16_10-54-36_868.jpg "PK and Friend")
+
+# And they lived in our office and became the Michael Scott Kitten Company. 
+
+(Sound on for kitten squeels)
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/XOfzwl9" data-context="false" ><a href="//imgur.com/a/XOfzwl9"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script> 
+
+---
+
+# The long & colorful version:
+
 # It was an unremarkable Sunday in April when a kitten ran through the Ryan's yard and up their driveway.
 
 ![hello new friend](/assets/photos/2019-04-20_21-53-54_951.jpg "Hello friend")

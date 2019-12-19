@@ -3,7 +3,9 @@ title: "About"
 permalink: /about/
 ---
 
-# The short & "to the point" version:
+# THE SHORT & "TO THE POINT" VERSION:
+
+***
 
 # It was an unremarkable Sunday in April when a kitten ran through the Ryan's yard and up their driveway.
 
@@ -35,9 +37,9 @@ permalink: /about/
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/XOfzwl9" data-context="false" ><a href="//imgur.com/a/XOfzwl9"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script> 
 
----
+***
 
-# The long & colorful version:
+# THE LONG & COLORFUL VERSION:
 
 # It was an unremarkable Sunday in April when a kitten ran through the Ryan's yard and up their driveway.
 
@@ -45,6 +47,7 @@ permalink: /about/
 
 # Kendra followed this cat down the street and into the neighbors yard. 
 
+<iframe src="https://giphy.com/embed/1fnzhKbGDVuHvjRSQZ" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hallmarkmovie-hmm-hallmark-movies-and-mysteries-1fnzhKbGDVuHvjRSQZ">via GIPHY</a></p>
 
 ### Two cans of food and 45 minutes later, Kendra (and her recruit, Colin) decided to give up and go back inside to watch Game of Thrones. 
 
@@ -52,7 +55,9 @@ permalink: /about/
 
 (Had they known what the season would amount to, their decision might be different and this story nonexistant.)
 
-# As this new cat didn't want to be captured by Kendra (can't imagine why not), Kendra did what Kendra does and yelled her address at the cat. 
+# This new cat didn't want to be captured by Kendra (can't imagine why), so Kendra did what Kendra does and yelled her address at the cat. 
+
+<iframe src="https://giphy.com/embed/26u49wAh0E8U3S4qA" width="480" height="266" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/reactionseditor-reaction-26u49wAh0E8U3S4qA">via GIPHY</a></p>
 
 ## Just in case, you know, the cat could (1) understand humans (2) speak english (3) fully grasp the addressing system in the united states.
 
@@ -60,11 +65,26 @@ permalink: /about/
 
 ### And again, Kendra chased the cat. And again, Kendra did what Kendra does and employed one of the "cat trapping" strategies she read about on the internet and sprawled herself out on the ground next to the cat and exposed her belly. To Kendra, this was "attempting to calm the cat." To the neighbors, this looked like a half-naked tresspasser talking to a car. Thankfully, her recruit Colin was there to explain to any concerned onlookers. 
 
-# The following day (Tuesday for those of you keeping track), Kendra was ready. "Let's have dinner in the back yard!" she said to her husband. "That sounds lovely," he said. "What prompted this great idea?" he inquired. "OH NOTHING" she said, totally not defensively. 
+(Reinactment of the events. Racoon is Kendra.)
 
-### Obviously both of them knew the reason for holding "Dinner Vigil" was to see if this kitten would return.
+<iframe src="https://giphy.com/embed/2zdn4TYq1EyZB3xdy2" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cute-aww-eyebleach-2zdn4TYq1EyZB3xdy2">via GIPHY</a></p>
 
-# Tuesday came and went and no kitten came into the yard. Kendra was devistated. She had concocted this totally-not-creepy alternate reality where her two dead cats where in cat heaven guiding this distressed kitten to Kendra's house. In Kendra's mind, clearly there was a miscommunication and something went wrong and there needed to be something done about it. 
+# The following day (Tuesday for those of you keeping track), Kendra was ready. 
+
+### "Let's have dinner in the back yard!" she said to her husband, Colin. "That sounds lovely," he said. "What prompted this great idea?" he inquired. "OH NOTHING," said Kendra, totally not defensively. 
+
+(Obviously both of them knew the reason for holding "Dinner Vigil" was to see if this kitten would return.)
+
+# Tuesday came and went and no kitten came into the yard.
+
+###  Kendra was devistated. She had concocted this totally-not-creepy alternate reality where her two dead cats where in cat heaven guiding this distressed kitten to Kendra's house. In Kendra's mind, clearly there was a miscommunication (you know, between cat heaven and earth) and something needed to be done. 
+
+# Dinner Vigil continued. 
+
+
+
+
+
 
 # She kept getting bigger
 
@@ -74,6 +94,18 @@ permalink: /about/
 
 ![alt text](/assets/photos/2019-05-02_08-14-45_904.jpg "PK and Friend")
 
+# And then smaller again (!!)
+
+![alt text](/assets/photos/2019-05-10_18-49-51_554.jpg "PK and Friend")
+
+# And then it rained
+
+![alt text](/assets/photos/2019-05-16_08-26-43_036.jpg "PK and Friend")
+
 # And then we brought her inside
 
 ![alt text](/assets/photos/2019-05-16_10-54-36_868.jpg "PK and Friend")
+
+# And they lived in our office and became the Michael Scott Kitten Company. 
+
+(Sound on for kitten squeels)

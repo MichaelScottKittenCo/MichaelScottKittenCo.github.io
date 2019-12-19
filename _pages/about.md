@@ -67,7 +67,7 @@ permalink: /about/
 
 (Reinactment of the events. Racoon is Kendra.)
 
-<iframe src="https://giphy.com/embed/2zdn4TYq1EyZB3xdy2" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cute-aww-eyebleach-2zdn4TYq1EyZB3xdy2">via GIPHY</a></p>
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/2zdn4TYq1EyZB3xdy2" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/cute-aww-eyebleach-2zdn4TYq1EyZB3xdy2">via GIPHY</a></p>
 
 # The following day (Tuesday for those of you keeping track), Kendra was ready. 
 

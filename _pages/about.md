@@ -123,10 +123,38 @@ permalink: /about/
 
 (These would become our "OCs" -- our Outside Cats, SockBoi and GreyBoi)
 
-
 ## Real talk: we had a great time waiting for her to show up every day
 
 ![alt text](/assets/photos/hanging.jpg "PK and Friend")
+
+
+
+
+
+
+## This quickly became the routine.
+
+![alt text](/assets/photos/routine.jpg "PK and Friend")
+
+
+## Eventually Kendra got curious where the fur friends went when they left her yard...
+
+<div style="width:100%;height:0;padding-bottom:74%;position:relative;"><iframe src="https://giphy.com/embed/3KCOFfdqmptLi" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/ufc-ronda-rousey-juso-3KCOFfdqmptLi">via GIPHY</a></p>
+
+(From the perspective of the hole under the fence)
+
+<div style="width:100%;height:0;padding-bottom:54%;position:relative;"><iframe src="https://giphy.com/embed/TDMbOHni02MZM8fTgS" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/mib-meninblack-mibinternational-TDMbOHni02MZM8fTgS">via GIPHY</a></p>
+
+## So she got a ladder
+
+![alt text](/assets/photos/ladder.jpg "PK and Friend")
+
+## ... and "peeked"
+
+![alt text](/assets/photos/curious.jpg "PK and Friend")
+
+
+
 
 
 

@@ -147,7 +147,7 @@ permalink: /about/
 
 ## So she got a ladder
 
-![alt text](/assets/photos/ladder_horizontal.jpg "PK and Friend")
+![alt text](/assets/photos/ladder_horizontal2.jpg "PK and Friend")
 
 ## ... and "peeked"
 
@@ -252,9 +252,11 @@ permalink: /about/
 
 ## Meet Kevin:
 
-![alt text](/assets/photos/baby_kevin.jpg "PK and Friend")
+![alt text](/assets/photos/baby_kevin2.jpg "PK and Friend")
 
 ![alt text](/assets/photos/kevin_2.jpg "PK and Friend")
+
+![alt text](/assets/photos/kevin_blep2.jpg "PK and Friend")
 
 ## Meet Stanley:
 
@@ -282,11 +284,11 @@ permalink: /about/
 
 ## And lastly, but most definitely not leastly, Mama Michael Scott
 
-![alt text](/assets/photos/mama_inside.jpg "PK and Friend")
+![alt text](/assets/photos/mama_inside2.jpg "PK and Friend")
 
 ## Like mama, like babies
 
-![alt text](/assets/photos/mama_and_babies.jpg "PK and Friend")
+![alt text](/assets/photos/mama_and_babies2.jpg "PK and Friend")
 
 
 

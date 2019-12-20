@@ -7,7 +7,7 @@ permalink: /about/
 
 ***
 
-## It was an unremarkable Sunday in April when a kitten ran through the Ryan's yard and up their driveway.
+## It was an unremarkable Sunday in April when a kitten ran through the Ryans' yard and up their driveway.
 
 ![hello new friend](/assets/photos/2019-04-20_21-53-54_951.jpg "Hello friend")
 
@@ -41,7 +41,7 @@ permalink: /about/
 
 # THE LONG & COLORFUL VERSION:
 
-## It was an unremarkable Sunday in April when a kitten ran through the Ryan's yard and up their driveway.
+## It was an unremarkable Sunday in April when a kitten ran through the Ryans' yard and up their driveway.
 
 ![hello new friend](/assets/photos/2019-04-20_21-53-54_951.jpg "Hello friend")
 
@@ -105,7 +105,7 @@ permalink: /about/
 
 ![alt text](/assets/photos/thursday.jpg "PK and Friend")
 
-#### Clearly all of the collective creative energies of the Ryan's were too busy building shelters for PK to actually come up with a name...
+#### Clearly all of the collective creative energies of the Ryans were too busy building shelters for PK to actually come up with a name...
 
 ## PK kept coming back
 
@@ -161,15 +161,80 @@ permalink: /about/
 
 ![alt text](/assets/photos/2019-05-02_08-14-45_904.jpg "PK and Friend")
 
-## And Kendra kept building her "shelters" hoping she would decide to have her babies in the Ryan's yard. 
+## And Kendra kept building her "shelters" hoping she would decide to have her babies in the Ryans' yard. 
 
 ![alt text](/assets/photos/notinfort.jpg "PK and Friend")
 
-## At this point, she was visiting multiple times a day
+(and getting discouraged when she would sit near but not in the shelters)
+
+## At this point, PK was visiting multiple times a day
 
 ![alt text](/assets/photos/closefood.jpg "PK and Friend")
 
 ![alt text](/assets/photos/rainshelter.jpg "PK and Friend")
+
+
+## And don't for a second think Kendra was the only obsessed one... 
+
+### Colin got a nestcam for outside so we could safely monitor PK & crew
+
+
+![alt text](/assets/photos/outside_nestcam.jpg "PK and Friend")
+
+## BTS: View from the ladder
+
+![alt text](/assets/photos/view_from_ladder.jpg "PK and Friend")
+
+## Quick reminder -- she was SO BIG.
+
+![alt text](/assets/photos/so_big.jpg "PK and Friend")
+
+## And then one day... PK didn't come for any food or any feedings. 
+
+### This was Kendra
+
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/hBn5xBlaUxyLu" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/nervous-hBn5xBlaUxyLu">via GIPHY</a></p>
+
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/NKBc1zpXB47Xa" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/scared-shocked-scream-NKBc1zpXB47Xa">via GIPHY</a></p>
+
+### This was Colin trying to help Kendra
+
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/GVSFDBNpirGyQ" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/GVSFDBNpirGyQ">via GIPHY</a></p>
+
+### This was Kendra for the whole next day
+
+<div style="width:100%;height:0;padding-bottom:55%;position:relative;"><iframe src="https://giphy.com/embed/r28Sg4Twrwtxu" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/anxious-pll-finale-summer-r28Sg4Twrwtxu">via GIPHY</a></p>
+
+
+## AND THEN SHE CAME BACK!! She was much smaller and had a bloody tail...
+
+![alt text](/assets/photos/now_smaller.jpg "PK and Friend")
+
+## Kendra was SURE this meant The Worst and continued to freak out and build shelters that were less shelter and more shrines-to-her-insanity
+
+![alt text](/assets/photos/another_shelter.jpg "PK and Friend")
+
+## Meanwile, Colin:
+
+<div style="width:100%;height:0;padding-bottom:50%;position:relative;"><iframe src="https://giphy.com/embed/Xm62Xd4mlzovC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/date-excitement-myself-Xm62Xd4mlzovC">via GIPHY</a></p>
+
+## UNTIL he had the brilliant idea to "repair the fence" 
+
+![alt text](/assets/photos/health_check.jpg "PK and Friend")
+
+## And while doing "routine maintence" on the fence and our sprinkler system, Colin captured the first confirmation that yes, there were kittens.
+
+![alt text](/assets/photos/2019-05-10_18-49-51_554.jpg "PK and Friend")
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/QatcPeb"  ><a href="//imgur.com/a/QatcPeb">KITTENS CONFIRMED!!</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
+<!-- ![alt text](/assets/photos/colin_check.jpg "PK and Friend") -->
+
+## With kittens now confirmed, Kendra's crazy didn't diminish, it was simply redirected. 
+
+![alt text](/assets/photos/kendracrazy_red.jpg "PK and Friend")
+
+![alt text](/assets/photos/kendracrazy.jpg "PK and Friend")
 
 
 
@@ -177,7 +242,7 @@ permalink: /about/
 
 ## And then smaller again (!!)
 
-![alt text](/assets/photos/2019-05-10_18-49-51_554.jpg "PK and Friend")
+
 
 ## And then it rained
 

@@ -193,8 +193,6 @@ permalink: /about/
 
 ### This was Kendra
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/hBn5xBlaUxyLu" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/nervous-hBn5xBlaUxyLu">via GIPHY</a></p>
-
 <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/NKBc1zpXB47Xa" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/scared-shocked-scream-NKBc1zpXB47Xa">via GIPHY</a></p>
 
 ### This was Colin trying to help Kendra
@@ -236,15 +234,32 @@ permalink: /about/
 
 ![alt text](/assets/photos/kendracrazy2.jpg "PK and Friend")
 
-## And then it rained
+## But then it rained. And kept raining. And kept raining.
+
+## And Kendra freaked out EVEN MORE because she could hear the helpless cries of the kittens from her side of the fence
+
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/hBn5xBlaUxyLu" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/nervous-hBn5xBlaUxyLu">via GIPHY</a></p>
+
+## At this point, even Colin was stressin'
+
+<div style="width:100%;height:0;padding-bottom:65%;position:relative;"><iframe src="https://giphy.com/embed/NERY7uUYtur4Y" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/friends-nervous-embarrassed-NERY7uUYtur4Y">via GIPHY</a></p>
+
+## So we did the only thing any responsible couple would do...
+
+1. Went to Lowes at 6am
+2. Bought a cat trap
+3. Trapped the mom
+4. Grabbed the kittens 
+
+## BEFORE:
 
 ![alt text](/assets/photos/2019-05-16_08-26-43_036.jpg "PK and Friend")
 
-## And then we brought her inside
+## AFTER:
 
 ![alt text](/assets/photos/2019-05-16_10-54-36_868.jpg "PK and Friend")
 
-## And they lived in our office and became the Michael Scott Kitten Company. 
+## HAPPILY EVER AFTER: They lived in our office and became the Michael Scott Kitten Company. 
 
 (Sound on for kitten squeels)
 
@@ -290,5 +305,8 @@ permalink: /about/
 
 ![alt text](/assets/photos/mama_and_babies2.jpg "PK and Friend")
 
+# Phew! You made it this far!! Want more kittens!?
+
+FUR SURE!! [TAKE ME TO MORE KITTENS!!](/kittens)
 
 

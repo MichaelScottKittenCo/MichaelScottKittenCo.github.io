@@ -179,15 +179,15 @@ permalink: /about/
 ### Colin got a nestcam for outside so we could safely monitor PK & crew
 
 
-![alt text](/assets/photos/outside_nestcam.jpg "PK and Friend")
+![alt text](/assets/photos/outside_nestcam2.jpg "PK and Friend")
 
 ## BTS: View from the ladder
 
-![alt text](/assets/photos/view_from_ladder.jpg "PK and Friend")
+![alt text](/assets/photos/view_from_ladder2.jpg "PK and Friend")
 
 ## Quick reminder -- she was SO BIG.
 
-![alt text](/assets/photos/so_big.jpg "PK and Friend")
+![alt text](/assets/photos/so_big2.jpg "PK and Friend")
 
 ## And then one day... PK didn't come for any food or any feedings. 
 
@@ -208,11 +208,11 @@ permalink: /about/
 
 ## AND THEN SHE CAME BACK!! She was much smaller and had a bloody tail...
 
-![alt text](/assets/photos/now_smaller.jpg "PK and Friend")
+![alt text](/assets/photos/now_smaller2.jpg "PK and Friend")
 
 ## Kendra was SURE this meant The Worst and continued to freak out and build shelters that were less shelter and more shrines-to-her-insanity
 
-![alt text](/assets/photos/another_shelter.jpg "PK and Friend")
+![alt text](/assets/photos/another_shelter2.jpg "PK and Friend")
 
 ## Meanwile, Colin:
 
@@ -220,7 +220,7 @@ permalink: /about/
 
 ## UNTIL he had the brilliant idea to "repair the fence" 
 
-![alt text](/assets/photos/health_check.jpg "PK and Friend")
+![alt text](/assets/photos/health_check2.jpg "PK and Friend")
 
 ## And while doing "routine maintence" on the fence and our sprinkler system, Colin captured the first confirmation that yes, there were kittens.
 
@@ -232,9 +232,9 @@ permalink: /about/
 
 ## With kittens now confirmed, Kendra's crazy didn't diminish, it was simply redirected. 
 
-![alt text](/assets/photos/kendracrazy_red.jpg "PK and Friend")
+![alt text](/assets/photos/kendracrazy_red2.jpg "PK and Friend")
 
-![alt text](/assets/photos/kendracrazy.jpg "PK and Friend")
+![alt text](/assets/photos/kendracrazy2.jpg "PK and Friend")
 
 
 

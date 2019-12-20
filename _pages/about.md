@@ -79,9 +79,55 @@ permalink: /about/
 
 ####  Kendra was devistated. She had concocted this totally-not-creepy alternate reality where her two dead cats where in cat heaven guiding this distressed kitten to Kendra's house. In Kendra's mind, clearly there was a miscommunication (you know, between cat heaven and earth) and something needed to be done. 
 
+(Reinactment of what Kendra was sure was happening in Cat Heaven)
+
 <div style="width:100%;height:0;padding-bottom:92%;position:relative;"><iframe src="https://giphy.com/embed/905GG7MjDw61q" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/working-cat-funny-905GG7MjDw61q">via GIPHY</a></p>
 
-## Dinner Vigil continued. 
+## Dinner Vigil continued on Wednesday.
+
+#### After sitting outside for some time with no kitten, Kendra and Colin decided to invite Pippin outside to accompany them in her "Adventure Tent"
+
+![alt text](/assets/photos/adventure_tent.jpg "PK and Friend")
+
+## BUT THEN GUESS WHAT!! KITTEN CAME BACK!! 
+
+![alt text](/assets/photos/wednesday.jpg "PK and Friend")
+
+## AND BROUGHT A FRIEND!!
+
+![alt text](/assets/photos/wednesday_friends.jpg "PK and Friend")
+
+#### Pippin did not like this
+
+![alt text](/assets/photos/pippin_nolike.jpg "PK and Friend")
+
+## Kitten came back on Thursday, earned the name PK for "Pregnant Kitty" 
+
+![alt text](/assets/photos/thursday.jpg "PK and Friend")
+
+#### Clearly all of the collective creative energies of the Ryan's were too busy building shelters for PK to actually come up with a name...
+
+## PK kept coming back
+
+![alt text](/assets/photos/pk_infence.jpg "PK and Friend")
+
+(look behind Colin under the fence)
+
+## PK would even hang out with us (but would not let us touch her)
+
+![alt text](/assets/photos/pk_hanging.jpg "PK and Friend")
+
+## She brought friends
+
+![alt text](/assets/photos/friends.jpg "PK and Friend")
+
+(These would become our "OCs" -- our Outside Cats, SockBoi and GreyBoi)
+
+
+## Real talk: we had a great time waiting for her to show up every day
+
+![alt text](/assets/photos/hanging.jpg "PK and Friend")
+
 
 
 

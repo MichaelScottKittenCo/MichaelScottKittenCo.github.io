@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "ALL the photos"
-    url: https://www.amazon.com/photos/shared/hFvMNamiQveuy8OyGkEs9g.vTzaa1WKwNxPoD4F5_njDS?sort=sortOldestToNewest
+  # - title: "ALL the photos"
+    # url: https://www.amazon.com/photos/shared/hFvMNamiQveuy8OyGkEs9g.vTzaa1WKwNxPoD4F5_njDS?sort=sortOldestToNewest
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"

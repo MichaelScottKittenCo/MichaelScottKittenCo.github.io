@@ -153,22 +153,27 @@ permalink: /about/
 
 ![alt text](/assets/photos/curious.jpg "PK and Friend")
 
-
-
-
-
-
-
-
-
-
-## She kept getting bigger
+## Meanwile, PK kept getting bigger
 
 ![alt text](/assets/photos/2019-04-28_19-05-38_744.jpg "PK and Friend")
 
 ## And bigger
 
 ![alt text](/assets/photos/2019-05-02_08-14-45_904.jpg "PK and Friend")
+
+## And Kendra kept building her "shelters" hoping she would decide to have her babies in the Ryan's yard. 
+
+![alt text](/assets/photos/notinfort.jpg "PK and Friend")
+
+## At this point, she was visiting multiple times a day
+
+![alt text](/assets/photos/closefood.jpg "PK and Friend")
+
+![alt text](/assets/photos/rainshelter.jpg "PK and Friend")
+
+
+
+
 
 ## And then smaller again (!!)
 

@@ -147,7 +147,7 @@ permalink: /about/
 
 ## So she got a ladder
 
-![alt text](/assets/photos/ladder.jpg "PK and Friend")
+![alt text](/assets/photos/ladder_horizontal.jpg "PK and Friend")
 
 ## ... and "peeked"
 
@@ -236,14 +236,6 @@ permalink: /about/
 
 ![alt text](/assets/photos/kendracrazy2.jpg "PK and Friend")
 
-
-
-
-
-## And then smaller again (!!)
-
-
-
 ## And then it rained
 
 ![alt text](/assets/photos/2019-05-16_08-26-43_036.jpg "PK and Friend")
@@ -257,3 +249,44 @@ permalink: /about/
 (Sound on for kitten squeels)
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/XOfzwl9" data-context="false" ><a href="//imgur.com/a/XOfzwl9"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script> 
+
+## Meet Kevin:
+
+![alt text](/assets/photos/baby_kevin.jpg "PK and Friend")
+
+![alt text](/assets/photos/kevin_2.jpg "PK and Friend")
+
+## Meet Stanley:
+
+![alt text](/assets/photos/stanley_1.jpg "PK and Friend")
+
+![alt text](/assets/photos/stanley_2.jpg "PK and Friend")
+
+## Meet Phyllis:
+
+![alt text](/assets/photos/phyllis_1.jpg "PK and Friend")
+
+![alt text](/assets/photos/phyllis_2.jpg "PK and Friend")
+
+## Meet Angela:
+
+![alt text](/assets/photos/angie_1.jpg "PK and Friend")
+
+![alt text](/assets/photos/angie_2.jpg "PK and Friend")
+
+## Meet Dwight (who we originally thought was a boy, but is actually a girl):
+
+![alt text](/assets/photos/dwight_1.jpg "PK and Friend")
+
+![alt text](/assets/photos/dwight_2.jpg "PK and Friend")
+
+## And lastly, but most definitely not leastly, Mama Michael Scott
+
+![alt text](/assets/photos/mama_inside.jpg "PK and Friend")
+
+## Like mama, like babies
+
+![alt text](/assets/photos/mama_and_babies.jpg "PK and Friend")
+
+
+

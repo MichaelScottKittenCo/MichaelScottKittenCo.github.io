@@ -3,8 +3,6 @@ title: "Kittens"
 permalink: /kittens/
 ---
 
-# Kittens
-
 And a VERY rough timeline:
 
 ## May 5: Kittens born!

@@ -189,7 +189,7 @@ permalink: /about/
 
 ### This was Colin trying to help Kendra
 
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/NERY7uUYtur4Y" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/GVSFDBNpirGyQ">via GIPHY</a></p>
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/NERY7uUYtur4Y" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/GVSFDBNpirGyQ">via GIPHY V2</a></p>
 
 ### This was Kendra for the whole next day
 
@@ -204,6 +204,8 @@ permalink: /about/
 ![alt text](/assets/photos/another_shelter2.jpg "PK and Friend")
 
 ## Meanwile, Colin:
+
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/NERY7uUYtur4Y" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/GVSFDBNpirGyQ">via GIPHY V2</a></p>
 
 <div style="width:100%;height:0;padding-bottom:50%;position:relative;"><iframe src="https://giphy.com/embed/Xm62Xd4mlzovC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/date-excitement-myself-Xm62Xd4mlzovC">via GIPHY</a></p>
 

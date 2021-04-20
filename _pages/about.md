@@ -79,7 +79,7 @@ permalink: /about/
 
 #### Kendra was devistated. She had concocted this totally-not-creepy alternate reality where her two dead cats where in cat heaven guiding this distressed kitten to Kendra's house. In Kendra's mind, clearly there was a miscommunication (you know, between cat heaven and earth) and something needed to be done.
 
-(Reinactment of what Kendra was sure was happening in Cat Heaven)
+(Reenactment of what Kendra was sure was happening in Cat Heaven)
 
 <div style="width:100%;height:0;padding-bottom:92%;position:relative;"><iframe src="https://giphy.com/embed/905GG7MjDw61q" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/working-cat-funny-905GG7MjDw61q">via GIPHY</a></p>
 
@@ -147,7 +147,7 @@ permalink: /about/
 
 ![alt text](/assets/photos/curious.jpg "PK and Friend")
 
-## Meanwile, PK kept getting bigger
+## Meanwhile, PK kept getting bigger
 
 ![alt text](/assets/photos/2019-04-28_19-05-38_744.jpg "PK and Friend")
 
@@ -203,11 +203,9 @@ permalink: /about/
 
 ![alt text](/assets/photos/another_shelter2.jpg "PK and Friend")
 
-## Meanwile, Colin:
+## Meanwhile, Colin:
 
 <div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/NERY7uUYtur4Y" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/GVSFDBNpirGyQ">via GIPHY V2</a></p>
-
-<div style="width:100%;height:0;padding-bottom:50%;position:relative;"><iframe src="https://giphy.com/embed/Xm62Xd4mlzovC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/date-excitement-myself-Xm62Xd4mlzovC">via GIPHY</a></p>
 
 ## UNTIL he had the brilliant idea to "repair the fence"
 

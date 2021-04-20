@@ -189,11 +189,11 @@ permalink: /about/
 
 ### This was Colin trying to help Kendra
 
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/NERY7uUYtur4Y" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/GVSFDBNpirGyQ">via GIPHY V2</a></p>
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/8wgXigjmt2ho2drJQz" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/freeform-halloween-hocus-pocus-31-nights-of-8wgXigjmt2ho2drJQz">via GIPHY 2</a></p>
 
 ### This was Kendra for the whole next day
 
-<div style="width:100%;height:0;padding-bottom:55%;position:relative;"><iframe src="https://giphy.com/embed/r28Sg4Twrwtxu" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/anxious-pll-finale-summer-r28Sg4Twrwtxu">via GIPHY</a></p>
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/RMSJflSRzaOpR2jGJX" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/cbc-schitts-creek-RMSJflSRzaOpR2jGJX">via GIPHY 2</a></p>
 
 ## AND THEN SHE CAME BACK!! She was much smaller and had a bloody tail...
 
@@ -235,7 +235,7 @@ permalink: /about/
 
 ## At this point, even Colin was stressin'
 
-<div style="width:100%;height:0;padding-bottom:65%;position:relative;"><iframe src="https://giphy.com/embed/NERY7uUYtur4Y" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/friends-nervous-embarrassed-NERY7uUYtur4Y">via GIPHY</a></p>
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/17bvpzBFFQ5Xi" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/17bvpzBFFQ5Xi">via GIPHY</a></p>
 
 ## So we did the only thing any responsible couple would do...
 
